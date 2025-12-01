@@ -7,7 +7,8 @@ Apasionado por la tecnología, los videojuegos y la creación de experiencias in
 
 ⭐ Mis proyectos destacados son:
 
-🖌️Wallpaper Provider -> Una aplicación web diseñada para ofrecer fondos de pantalla en múltiples tamaños de manera rápida, sencilla e inmersiva, brindando al usuario una experiencia fluida y personalizada.
+🖌️Wallpaper Provider -> Una aplicación web diseñada para ofrecer fondos de pantalla en múltiples tamaños de manera rápida, sencilla e inmersiva, brindando al usuario una experiencia fluida y personalizada. (https://github.com/FrancoBarberis/Wallpaper-Provider)
+
 
 
 🧑‍💻 Mis tecnologías conocidas:
@@ -22,6 +23,9 @@ Apasionado por la tecnología, los videojuegos y la creación de experiencias in
 📗 Node
 🌩️ Vite
 
+Puedes encontrarme en Linkedin!!
+
+https://www.linkedin.com/in/franco-barberis-a97677171/
 
 <!--
 **FrancoBarberis/FrancoBarberis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
