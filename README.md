@@ -13,6 +13,7 @@ Soy un apasionado por la tecnología, los videojuegos y la creación de experien
 
 🧑‍💻 Mis tecnologías conocidas:
 
+⚛️ React
 🟡 Javascript
 🐍 Python
 ☕ Java
