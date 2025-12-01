@@ -2,6 +2,7 @@
 <img width="958" height="539" alt="Banner" src="https://github.com/user-attachments/assets/53f6af70-aa22-450f-be2d-12527a7e714d" />
 
 ## Hello Everyone!
+![cat gif](https://github.com/user-attachments/assets/4a39bda7-f1b8-48de-91a4-e319ab85c2ff)
 
 It´s Franco
 <!--
