@@ -1,29 +1,30 @@
  
 <img width="958" height="539" alt="Banner" src="https://github.com/user-attachments/assets/53f6af70-aa22-450f-be2d-12527a7e714d" />
 
-👋 Hola! soy Franco Nicolas Barberis, desarrollador Frontend en constante evolución.
+👋 Hola! soy Franco Barberis, desarrollador Frontend en continuo aprendizaje.
 
-Soy un apasionado por la tecnología, los videojuegos y la creación de experiencias interactivas. Me gusta combinar creatividad y lógica para dar vida a ideas únicas.
-
+Desde chico me gusta la tecnología, los videojuegos y la resolución de problemas, lo que me motivó a desarrollar experiencias interactivas y funcionales en mis sitios web.
 
 ⭐ Mis proyectos destacados son:
 
+______
 🖌️Wallpaper Provider -> Una aplicación web diseñada para ofrecer fondos de pantalla en múltiples tamaños de manera rápida, sencilla e inmersiva, brindando al usuario una experiencia fluida y personalizada. (https://github.com/FrancoBarberis/Wallpaper-Provider)
+______
 
+🧑‍💻 TECH STACK:
 
-🧑‍💻 Mis tecnologías conocidas:
-
-⚛️ React
-🟡 Javascript
-🐍 Python
-☕ Java
-🔴 Git
+⚛️ React (aprendiendo, con varios proyectos disponibles)
+🟨 Javascript
+🟦 Typescript (aprendiendo)
+🐍 Python (básico)
+☕ Java (programación orientada a objetos)
+🔴 Git 
 🟠 HTML
-🔵 CSS
-🌬️ Tailwind
-📗 Node
-🌩️ Vite
-
+🔵 CSS (CSS normal, CSS modules)
+🌬️ TailwindCSS
+📗 Node (básico)
+📦 NPM (lo uso a diario)
+🌩️ Vite (mi bundler predilecto)
 
 Puedes encontrarme en Linkedin!!
 
