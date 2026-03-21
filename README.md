@@ -27,7 +27,8 @@ ______
 🌩️ Vite (mi bundler predilecto)
 
 Actualmente estoy aprendiendo SpringBoot...
-d
+
+
 Puedes encontrarme en Linkedin!!
 
 https://www.linkedin.com/in/franco-barberis-a97677171/
