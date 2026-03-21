@@ -22,10 +22,12 @@ ______
 🟠 HTML
 🔵 CSS (CSS normal, CSS modules)
 🌬️ TailwindCSS
-📗 Node (básico)
+📗 NodeJS
 📦 NPM (lo uso a diario)
 🌩️ Vite (mi bundler predilecto)
 
+Actualmente estoy aprendiendo SpringBoot...
+d
 Puedes encontrarme en Linkedin!!
 
 https://www.linkedin.com/in/franco-barberis-a97677171/
