@@ -1,9 +1,4 @@
- 
-<img width="958" height="539" alt="Banner" src="https://github.com/user-attachments/assets/53f6af70-aa22-450f-be2d-12527a7e714d" />
-
-👋 Hola! soy Franco Barberis, desarrollador Frontend en continuo aprendizaje.
-
-Desde chico me gusta la tecnología, los videojuegos y la resolución de problemas, lo que me motivó a desarrollar experiencias interactivas y funcionales en mis sitios web.
+👋 Hola! soy Franco Barberis, desarrollador Fullstack en continuo aprendizaje.
 
 ⭐ Mis proyectos destacados son:
 
@@ -13,21 +8,17 @@ ______
 
 🧑‍💻 TECH STACK:
 
-⚛️ React (aprendiendo, con varios proyectos disponibles)
+⚛️ React
 🟨 Javascript
-🟦 Typescript (aprendiendo)
-🐍 Python (básico)
-☕ Java (programación orientada a objetos)
-🔴 Git 
-🟠 HTML
-🔵 CSS (CSS normal, CSS modules)
+🟦 Typescript
+🐍 Python
+☕ Java
+🥬 Springboot
 🌬️ TailwindCSS
 📗 NodeJS
-📦 NPM (lo uso a diario)
-🌩️ Vite (mi bundler predilecto)
-
-Actualmente estoy aprendiendo SpringBoot...
-
+⏩ Express
+📦 NPM
+🌩️ Vite
 
 Puedes encontrarme en Linkedin!!
 
